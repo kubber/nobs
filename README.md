@@ -1,5 +1,4 @@
-# nobs
-NoBS Guitar Scales, Chords and Arpeggios - Android App
+# NoBS Guitar Scales, Chords and Arpeggios - Android App
 
 I'm a guitar player wannabe and I couldn't find a simplest app that's clear, without ads and .. free ,
 so I made one myself. 
