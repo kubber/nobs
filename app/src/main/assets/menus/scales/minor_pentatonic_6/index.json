@@ -1,0 +1,11 @@
+{
+  "title":"Minor Pentatonic 6 no b7",
+  "info":"scales/minor_pentatonic_6",
+  "elements":[
+    {"title":"1A", "type":"diagram", "link":"scales/minor_pentatonic_6/1A"},
+    {"title":"1E", "type":"diagram", "link":"scales/minor_pentatonic_6/1E"},
+    {"title":"1D", "type":"diagram", "link":"scales/minor_pentatonic_6/1D"},
+    {"title":"3A", "type":"diagram", "link":"scales/minor_pentatonic_6/3A"},
+    {"title":"4E", "type":"diagram", "link":"scales/minor_pentatonic_6/4E"}
+  ]
+}

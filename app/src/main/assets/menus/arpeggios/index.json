@@ -1,0 +1,15 @@
+{
+  "title":"Arpeggios",
+  "elements":[
+    {"title":"Major Triad", "type":"menu", "link":"arpeggios/major/index"},
+    {"title":"Minor Triad", "type":"menu", "link":"arpeggios/minor/index"},
+    {"title":"Augmented Triad", "type":"menu", "link":"arpeggios/augmented/index"},
+    {"title":"Diminished Triad", "type":"menu", "link":"arpeggios/diminished/index"},
+    {"title":"7", "type":"menu", "link":"arpeggios/7/index"},
+    {"title":"Maj 7", "type":"menu", "link":"arpeggios/maj7/index"},
+    {"title":"Min 7", "type":"menu", "link":"arpeggios/min7/index"},
+    {"title":"Diminished 7", "type":"menu", "link":"arpeggios/dim7/index"},
+    {"title":"Min maj7", "type":"menu", "link":"arpeggios/min-maj7/index"},
+    {"title":"Min 7b5", "type":"menu", "link":"arpeggios/min7b5/index"}
+  ]
+}

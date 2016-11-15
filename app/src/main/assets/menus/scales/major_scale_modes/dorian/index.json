@@ -1,0 +1,10 @@
+{
+  "title":"Dorian",
+  "elements":[
+    {"title":"1A", "type":"diagram", "link":"scales/major_scale_modes/dorian/1A"},
+    {"title":"1D", "type":"diagram", "link":"scales/major_scale_modes/dorian/1D"},
+    {"title":"1E", "type":"diagram", "link":"scales/major_scale_modes/dorian/1E"},
+    {"title":"4A", "type":"diagram", "link":"scales/major_scale_modes/dorian/4A"},
+    {"title":"4E", "type":"diagram", "link":"scales/major_scale_modes/dorian/4E"}
+  ]
+}

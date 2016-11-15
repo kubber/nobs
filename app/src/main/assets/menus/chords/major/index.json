@@ -1,0 +1,10 @@
+{
+  "title":"Major",
+  "elements":[
+     {"title":"1D", "type":"diagram", "link":"chords/major/1D"},
+     {"title":"1A", "type":"diagram", "link":"chords/major/1A"},
+     {"title":"1E", "type":"diagram", "link":"chords/major/1E"},
+     {"title":"4A", "type":"diagram", "link":"chords/major/4A"},
+     {"title":"4E", "type":"diagram", "link":"chords/major/4E"}
+  ]
+}

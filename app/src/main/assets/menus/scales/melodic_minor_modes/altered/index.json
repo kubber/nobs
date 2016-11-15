@@ -1,0 +1,8 @@
+{
+  "title":"Altered",
+  "elements":[
+    {"title":"Single Octave", "type":"menu", "link":"scales/melodic_minor_modes/altered/single_octave/index"},
+    {"title":"1E", "type":"diagram", "link":"scales/melodic_minor_modes/altered/1E"},
+    {"title":"1A", "type":"diagram", "link":"scales/melodic_minor_modes/altered/1A"}
+  ]
+}

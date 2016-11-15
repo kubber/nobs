@@ -1,0 +1,8 @@
+{
+  "title":"Sus 2",
+  "elements":[
+     {"title":"1A", "type":"diagram", "link":"chords/sus2/1A"},
+     {"title":"3E", "type":"diagram", "link":"chords/sus2/4A"},
+     {"title":"4A", "type":"diagram", "link":"chords/sus2/3E"}
+  ]
+}

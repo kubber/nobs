@@ -1,0 +1,10 @@
+{
+  "title":"Augmented",
+  "elements":[
+    {"title":"1", "type":"diagram", "link":"arpeggios/augmented/1"},
+    {"title":"2A", "type":"diagram", "link":"arpeggios/augmented/2A"},
+    {"title":"2D", "type":"diagram", "link":"arpeggios/augmented/2D"},
+    {"title":"2E", "type":"diagram", "link":"arpeggios/augmented/2E"},
+    {"title":"4E", "type":"diagram", "link":"arpeggios/augmented/4E"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "title":"Locrian",
+  "elements":[
+    {"title":"1D", "type":"diagram", "link":"scales/major_scale_modes/locrian/1D"},
+    {"title":"1E", "type":"diagram", "link":"scales/major_scale_modes/locrian/1E"},
+    {"title":"3A", "type":"diagram", "link":"scales/major_scale_modes/locrian/3A"},
+    {"title":"3E", "type":"diagram", "link":"scales/major_scale_modes/locrian/3E"},
+    {"title":"4D", "type":"diagram", "link":"scales/major_scale_modes/locrian/4D"}
+  ]
+}

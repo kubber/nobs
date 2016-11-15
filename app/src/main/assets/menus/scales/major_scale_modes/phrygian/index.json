@@ -1,0 +1,10 @@
+{
+  "title":"Phrygian",
+  "elements":[
+    {"title":"1A", "type":"diagram", "link":"scales/major_scale_modes/phrygian/1A"},
+    {"title":"1D", "type":"diagram", "link":"scales/major_scale_modes/phrygian/1D"},
+    {"title":"1E", "type":"diagram", "link":"scales/major_scale_modes/phrygian/1E"},
+    {"title":"3E", "type":"diagram", "link":"scales/major_scale_modes/phrygian/3E"},
+    {"title":"4A", "type":"diagram", "link":"scales/major_scale_modes/phrygian/4A"}
+  ]
+}

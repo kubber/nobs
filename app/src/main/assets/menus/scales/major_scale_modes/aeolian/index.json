@@ -1,0 +1,10 @@
+{
+  "title":"Aeolian",
+  "elements":[
+    {"title":"1A", "type":"diagram", "link":"scales/major_scale_modes/aeolian/1A"},
+    {"title":"1D", "type":"diagram", "link":"scales/major_scale_modes/aeolian/1D"},
+    {"title":"1E", "type":"diagram", "link":"scales/major_scale_modes/aeolian/1E"},
+    {"title":"3A", "type":"diagram", "link":"scales/major_scale_modes/aeolian/3A"},
+    {"title":"4E", "type":"diagram", "link":"scales/major_scale_modes/aeolian/4E"}
+  ]
+}

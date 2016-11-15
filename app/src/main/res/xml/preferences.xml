@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Preferences">
+
+        <CheckBoxPreference
+            android:key="splash_screen"
+            android:title="Splash Screen"
+            android:summaryOn="Enabled"
+            android:summaryOff="Disabled"
+            android:defaultValue="true"></CheckBoxPreference>
+
+        <CheckBoxPreference
+            android:key="diagram_titles"
+            android:title="Display Diagram Titles"
+            android:summaryOn="Enabled"
+            android:summaryOff="Disabled"
+            android:defaultValue="true"></CheckBoxPreference>
+
+        <ListPreference
+            android:key="theme"
+            android:title="Theme"
+            android:summary="%s"
+            android:defaultValue="BlackOnWhite"
+            android:entryValues="@array/themes_values"
+            android:entries="@array/themes"
+            ></ListPreference>
+
+        <ListPreference
+            android:key="diagram_display_mode"
+            android:title="Diagram Display Mode"
+            android:summary="%s"
+            android:defaultValue="VERTICAL"
+            android:entryValues="@array/diagram_modes_values"
+            android:entries="@array/diagram_modes"
+            ></ListPreference>
+
+    </PreferenceCategory>
+</PreferenceScreen>

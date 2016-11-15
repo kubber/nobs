@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="40dp"
+        android:paddingTop="50dp"
+        android:text="NoBS Guitar Scales, Chords and Arpeggios"
+        android:textAlignment="center"
+        android:textIsSelectable="true"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        android:paddingTop="20dp"
+        android:text="No bulls**t, no ads, no distractions, 100% Free"
+        android:textAlignment="center"
+        android:textIsSelectable="true"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="20dp"
+        android:text="This app is open sourced, any help is more than welcome. Let me know if you spot any wrong chart or if you would like to add more interesting ones. If you're a developer and can help I have a lot of ideas for helpful apps but never enough time"
+        android:textAlignment="center"
+        android:textIsSelectable="true"
+        android:textSize="16sp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15dp"
+        android:paddingTop="50dp"
+        android:text="You can disable this splash screen in app settings"
+        android:textAlignment="center"
+        android:textIsSelectable="true"
+        android:textSize="13sp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GOT IT - LET'S GO !" />
+
+</LinearLayout>

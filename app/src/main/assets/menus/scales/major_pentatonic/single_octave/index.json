@@ -1,0 +1,10 @@
+{
+  "title":"Major Pentatonic",
+  "elements":[
+    {"title":"1A", "type":"diagram", "link":"scales/major_pentatonic/single_octave/1A"},
+    {"title":"2E", "type":"diagram", "link":"scales/major_pentatonic/single_octave/2E"},
+    {"title":"4A", "type":"diagram", "link":"scales/major_pentatonic/single_octave/4A"},
+    {"title":"4D", "type":"diagram", "link":"scales/major_pentatonic/single_octave/4D"},
+    {"title":"4E", "type":"diagram", "link":"scales/major_pentatonic/single_octave/4E"}
+  ]
+}

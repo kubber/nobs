@@ -1,0 +1,14 @@
+{
+  "title":"Minor Pentatonic",
+  "elements":[
+    {"title":"1A", "type":"diagram", "link":"scales/minor_pentatonic/single_octave/1A"},
+    {"title":"1D", "type":"diagram", "link":"scales/minor_pentatonic/single_octave/1D"},
+    {"title":"1E", "type":"diagram", "link":"scales/minor_pentatonic/single_octave/1E"},
+    {"title":"1G", "type":"diagram", "link":"scales/minor_pentatonic/single_octave/1G"},
+    {"title":"3D", "type":"diagram", "link":"scales/minor_pentatonic/single_octave/3D"},
+    {"title":"3E", "type":"diagram", "link":"scales/minor_pentatonic/single_octave/3E"},
+    {"title":"3G", "type":"diagram", "link":"scales/minor_pentatonic/single_octave/3G"},
+    {"title":"4A", "type":"diagram", "link":"scales/minor_pentatonic/single_octave/4A"},
+    {"title":"4E", "type":"diagram", "link":"scales/minor_pentatonic/single_octave/4E"}
+  ]
+}

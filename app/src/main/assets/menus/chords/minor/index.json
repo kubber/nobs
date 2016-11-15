@@ -1,0 +1,10 @@
+{
+  "title":"Minor",
+  "elements":[
+     {"title":"1A", "type":"diagram", "link":"chords/minor/1A"},
+     {"title":"2D", "type":"diagram", "link":"chords/minor/1D"},
+     {"title":"1E", "type":"diagram", "link":"chords/minor/1E"},
+     {"title":"4A", "type":"diagram", "link":"chords/minor/4A"},
+     {"title":"4E", "type":"diagram", "link":"chords/minor/4E"}
+  ]
+}

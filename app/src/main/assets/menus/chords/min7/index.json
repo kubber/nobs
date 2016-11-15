@@ -1,0 +1,11 @@
+{
+  "title":"Min7",
+  "elements":[
+     {"title":"1A", "type":"diagram", "link":"chords/min7/1A"},
+     {"title":"1D", "type":"diagram", "link":"chords/min7/1D"},
+     {"title":"1E", "type":"diagram", "link":"chords/min7/1E"},
+     {"title":"4A", "type":"diagram", "link":"chords/min7/4A"},
+     {"title":"4E", "type":"diagram", "link":"chords/min7/4E"},
+     {"title":"1B", "type":"diagram", "link":"chords/min7/1B"}
+  ]
+}

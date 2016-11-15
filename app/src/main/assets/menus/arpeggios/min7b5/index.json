@@ -1,0 +1,10 @@
+{
+  "title":"min7b5",
+  "elements":[
+    {"title":"1A", "type":"diagram", "link":"arpeggios/min7b5/1A"},
+    {"title":"1D", "type":"diagram", "link":"arpeggios/min7b5/1D"},
+    {"title":"1E", "type":"diagram", "link":"arpeggios/min7b5/1E"},
+    {"title":"3A", "type":"diagram", "link":"arpeggios/min7b5/3A"},
+    {"title":"3E", "type":"diagram", "link":"arpeggios/min7b5/3E"}
+  ]
+}

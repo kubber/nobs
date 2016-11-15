@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/diagram_toolbar"
+    android:layout_width="match_parent"
+    android:visibility="gone"
+    android:layout_height="64dp">
+
+    <Spinner
+        android:id="@+id/diagram_toolbar_keys_spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </Spinner>
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/diagram_toolbar_related_chord"-->
+        <!--android:text="Chord"-->
+        <!--/>-->
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/diagram_toolbar_related_scale"-->
+        <!--android:text="Scale"-->
+        <!--/>-->
+
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/diagram_toolbar_related_arpeggio"-->
+        <!--android:text="Arpeggio"-->
+        <!--/>-->
+
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/diagram_toolbar_info"-->
+        <!--android:text="Info"-->
+        <!--/>-->
+
+</android.support.v7.widget.Toolbar>

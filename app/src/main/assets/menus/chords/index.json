@@ -1,0 +1,57 @@
+{
+  "title":"Chords",
+  "elements":[
+
+    {"title":"Guide Tone Chords", "type":"menu", "link":"chords/shell/index"},
+    {"title":"Augmented", "type":"menu", "link":"chords/augmented/index"},
+    {"title":"Augmented 7", "type":"menu", "link":"chords/augmented7/index"},
+    {"title":"Diminished", "type":"menu", "link":"chords/diminished/index"},
+    {"title":"Diminished 7", "type":"menu", "link":"chords/diminished7/index"},
+
+    {"title":"Major", "type":"menu", "link":"chords/major/index"},
+    {"title":"maj7", "type":"menu", "link":"chords/maj7/index"},
+    {"title":"maj9", "type":"menu", "link":"chords/maj9/index"},
+    {"title":"maj7#11", "type":"menu", "link":"chords/maj7sharp11/index"},
+    {"title":"maj7b5", "type":"menu", "link":"chords/maj7b5/index"},
+    {"title":"maj7#5", "type":"menu", "link":"chords/maj7#5/index"},
+    {"title":"maj6", "type":"menu", "link":"chords/maj6/index"},
+    {"title":"maj add 9", "type":"menu", "link":"chords/maj-add9/index"},
+    {"title":"maj13", "type":"menu", "link":"chords/maj13/index"},
+
+    {"title":"Minor", "type":"menu", "link":"chords/minor/index"},
+    {"title":"min7", "type":"menu", "link":"chords/min7/index"},
+    {"title":"min6", "type":"menu", "link":"chords/min6/index"},
+    {"title":"min9", "type":"menu", "link":"chords/min9/index"},
+    {"title":"min7b5", "type":"menu", "link":"chords/min7b5/index"},
+    {"title":"min7#5", "type":"menu", "link":"chords/min7sharp5/index"},
+    {"title":"min11", "type":"menu", "link":"chords/min11/index"},
+    {"title":"min maj7", "type":"menu", "link":"chords/min-maj7/index"},
+    {"title":"min add 9", "type":"menu", "link":"chords/min-add9/index"},
+    {"title":"min69", "type":"menu", "link":"chords/min69/index"},
+    {"title":"min13", "type":"menu", "link":"chords/min13/index"},
+
+
+    {"title":"7", "type":"menu", "link":"chords/7/index"},
+    {"title":"9", "type":"menu", "link":"chords/9/index"},
+    {"title":"9b5", "type":"menu", "link":"chords/9b5/index"},
+    {"title":"9#5", "type":"menu", "link":"chords/9sharp5/index"},
+    {"title":"9#11", "type":"menu", "link":"chords/9sharp11/index"},
+    {"title":"11", "type":"menu", "link":"chords/11/index"},
+    {"title":"7#11", "type":"menu", "link":"chords/7sharp11/index"},
+    {"title":"13", "type":"menu", "link":"chords/13/index"},
+    {"title":"13b9", "type":"menu", "link":"chords/13b9/index"},
+    {"title":"13#11", "type":"menu", "link":"chords/13sharp11/index"},
+    {"title":"7b9", "type":"menu", "link":"chords/7b9/index"},
+    {"title":"7b5", "type":"menu", "link":"chords/7b5/index"},
+    {"title":"7b5b9", "type":"menu", "link":"chords/7b5b9/index"},
+    {"title":"7b5#9", "type":"menu", "link":"chords/7b5sharp9/index"},
+    {"title":"7#5", "type":"menu", "link":"chords/7sharp5/index"},
+    {"title":"7#9", "type":"menu", "link":"chords/7sharp9/index"},
+    {"title":"7#5#9", "type":"menu", "link":"chords/7sharp5sharp9/index"},
+    {"title":"7#5b9", "type":"menu", "link":"chords/7sharp5b9/index"},
+
+    {"title":"sus2", "type":"menu", "link":"chords/sus2/index"},
+    {"title":"sus4", "type":"menu", "link":"chords/sus4/index"}
+
+  ]
+}

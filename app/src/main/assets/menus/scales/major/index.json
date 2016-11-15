@@ -1,0 +1,10 @@
+{
+  "title":"Major",
+  "elements":[
+    {"title":"2A", "type":"diagram", "link":"scales/major/2A"},
+    {"title":"2D", "type":"diagram", "link":"scales/major/2D"},
+    {"title":"2E", "type":"diagram", "link":"scales/major/2E"},
+    {"title":"4A", "type":"diagram", "link":"scales/major/4A"},
+    {"title":"4E", "type":"diagram", "link":"scales/major/4E"}
+  ]
+}

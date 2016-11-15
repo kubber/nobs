@@ -1,0 +1,10 @@
+{
+  "title":"Lydian",
+  "elements":[
+    {"title":"1A", "type":"diagram", "link":"scales/major_scale_modes/lydian/1A"},
+    {"title":"2D", "type":"diagram", "link":"scales/major_scale_modes/lydian/2D"},
+    {"title":"2E", "type":"diagram", "link":"scales/major_scale_modes/lydian/2E"},
+    {"title":"4A", "type":"diagram", "link":"scales/major_scale_modes/lydian/4A"},
+    {"title":"4E", "type":"diagram", "link":"scales/major_scale_modes/lydian/4E"}
+  ]
+}

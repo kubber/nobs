@@ -1,0 +1,10 @@
+{
+  "title":"minor",
+  "elements":[
+    {"title":"1A", "type":"diagram", "link":"arpeggios/minor/1A"},
+    {"title":"1D", "type":"diagram", "link":"arpeggios/minor/1D"},
+    {"title":"1E", "type":"diagram", "link":"arpeggios/minor/1E"},
+    {"title":"4A", "type":"diagram", "link":"arpeggios/minor/4A"},
+    {"title":"4E", "type":"diagram", "link":"arpeggios/minor/4E"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "title":"Maj7",
+  "elements":[
+    {"title":"2A", "type":"diagram", "link":"arpeggios/maj7/2A"},
+    {"title":"1D", "type":"diagram", "link":"arpeggios/maj7/1D"},
+    {"title":"2E", "type":"diagram", "link":"arpeggios/maj7/2E"},
+    {"title":"4A", "type":"diagram", "link":"arpeggios/maj7/4A"},
+    {"title":"4E", "type":"diagram", "link":"arpeggios/maj7/4E"}
+  ]
+}

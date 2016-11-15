@@ -1,0 +1,7 @@
+{
+  "elements":[
+       {"title":"Scales", "type":"menu", "link":"scales/index"},
+       {"title":"Chords", "type":"menu", "link":"chords/index"},
+       {"title":"Arpeggios", "type":"menu", "link":"arpeggios/index"}
+  ]
+}

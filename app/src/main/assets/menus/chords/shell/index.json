@@ -1,0 +1,8 @@
+{
+  "title":"Chord Tone Chords",
+  "elements":[
+     {"title":"7", "type":"menu", "link":"chords/shell/7/index"},
+     {"title":"maj7", "type":"menu", "link":"chords/shell/maj7/index"},
+     {"title":"min7 & m7b5", "type":"menu", "link":"chords/shell/min7/index"}
+  ]
+}

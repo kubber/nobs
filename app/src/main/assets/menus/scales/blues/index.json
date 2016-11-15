@@ -1,0 +1,10 @@
+{
+  "title":"Pentatonic + b5",
+  "elements":[
+    {"title":"1E", "type":"diagram", "link":"scales/blues/1E"},
+    {"title":"1A", "type":"diagram", "link":"scales/blues/1A"},
+    {"title":"1D", "type":"diagram", "link":"scales/blues/1D"},
+    {"title":"3A", "type":"diagram", "link":"scales/blues/3A"},
+    {"title":"4E", "type":"diagram", "link":"scales/blues/4E"}
+  ]
+}

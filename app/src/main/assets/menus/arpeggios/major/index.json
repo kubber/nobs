@@ -1,0 +1,10 @@
+{
+  "title":"Major",
+  "elements":[
+     {"title":"1D", "type":"diagram", "link":"arpeggios/major/1D"},
+     {"title":"2A", "type":"diagram", "link":"arpeggios/major/2A"},
+     {"title":"2E", "type":"diagram", "link":"arpeggios/major/2E"},
+     {"title":"4A", "type":"diagram", "link":"arpeggios/major/4A"},
+     {"title":"4E", "type":"diagram", "link":"arpeggios/major/4E"}
+  ]
+}

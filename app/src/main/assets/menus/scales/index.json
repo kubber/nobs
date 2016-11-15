@@ -1,0 +1,42 @@
+{
+  "title":"Scales",
+
+  "elements":[
+    {"title":"Minor Pentatonic", "type":"menu", "link":"scales/minor_pentatonic/index"},
+    {"title":"Minor Pentatonic +b5", "type":"menu", "link":"scales/blues/index"},
+    {"title":"Minor Pentatonic 6 no 7", "type":"menu", "link":"scales/pentatonic_6/index"},
+
+    {"title":"Major Pentatonic", "type":"menu", "link":"scales/major_pentatonic/index"},
+    {"title":"Major/Ionian", "type":"menu", "link":"scales/major/index"},
+    {"title":"Dorian","type":"menu","link":"scales/major_scale_modes/dorian/index"},
+    {"title":"Phrygian","type":"menu","link":"scales/major_scale_modes/phrygian/index"},
+    {"title":"Lydian","type":"menu","link":"scales/major_scale_modes/lydian/index"},
+    {"title":"Mixolydian","type":"menu","link":"scales/major_scale_modes/mixolydian/index"},
+    {"title":"Aeolian","type":"menu","link":"scales/major_scale_modes/aeolian/index"},
+    {"title":"Locrian","type":"menu","link":"scales/major_scale_modes/locrian/index"},
+
+
+    {"title":"Melodic Minor", "type":"menu", "link":"scales/melodic_minor/index"},
+    {"title":"Dorian b2", "type":"menu", "link":"scales/melodic_minor_modes/dorian_b2/index"},
+    {"title":"Lydian Augmented", "type":"menu", "link":"scales/melodic_minor_modes/lydian_augmented/index"},
+    {"title":"Lydian Dominant", "type":"menu", "link":"scales/melodic_minor_modes/lydian_dominant/index"},
+    {"title":"Mixolydian b6", "type":"menu", "link":"scales/melodic_minor_modes/mixolydian_b6/index"},
+    {"title":"Locrian #2", "type":"menu", "link":"scales/melodic_minor_modes/locrian_sharp2/index"},
+    {"title":"Altered", "type":"menu", "link":"scales/melodic_minor_modes/altered/index"},
+
+
+    {"title":"Harmonic Minor", "type":"menu", "link":"scales/harmonic_minor/index"},
+    {"title":"Locrian 6", "type":"menu", "link":"scales/harmonic_minor_modes/locrian6/index"},
+    {"title":"Ionian #5", "type":"menu", "link":"scales/harmonic_minor_modes/ionian_sharp5/index"},
+    {"title":"Dorian #4", "type":"menu", "link":"scales/harmonic_minor_modes/dorian_sharp4/index"},
+    {"title":"Phrygian Dominant", "type":"menu", "link":"scales/harmonic_minor_modes/phrygian_dominant/index"},
+    {"title":"Lydian #2", "type":"menu", "link":"scales/harmonic_minor_modes/lydian_sharp2/index"},
+    {"title":"Diminished", "type":"menu", "link":"scales/harmonic_minor_modes/diminished/index"},
+
+    {"title":"Whole-Half Diminished", "type":"menu", "link":"scales/whole_half_diminished/index"},
+    {"title":"Half-Whole Diminished", "type":"menu", "link":"scales/half_whole_diminished/index"},
+    {"title":"Whole Tone", "type":"menu", "link":"scales/whole_tone/index"}
+
+
+  ]
+}

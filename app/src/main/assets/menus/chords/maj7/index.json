@@ -1,0 +1,13 @@
+{
+  "title":"Maj7",
+  "elements":[
+     {"title":"1D", "type":"diagram", "link":"chords/maj7/1D"},
+     {"title":"2A", "type":"diagram", "link":"chords/maj7/2A"},
+     {"title":"2E", "type":"diagram", "link":"chords/maj7/2E"},
+     {"title":"4A", "type":"diagram", "link":"chords/maj7/4A"},
+     {"title":"4E", "type":"diagram", "link":"chords/maj7/4E"},
+     {"title":"2A", "type":"diagram", "link":"chords/maj7/2A_2"},
+     {"title":"1B", "type":"diagram", "link":"chords/maj7/1B"}
+
+  ]
+}
