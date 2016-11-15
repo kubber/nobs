@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:paddingBottom="20dp"
         android:paddingTop="20dp"
-        android:text="No bulls**t, no ads, no distractions, 100% Free"
+        android:text="No bullsh**, no ads, no distractions, 100% Free"
         android:textAlignment="center"
         android:textIsSelectable="true"
         android:textSize="17sp"
